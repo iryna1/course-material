@@ -4,5 +4,4 @@ Created on Thu Sep 25 10:13:46 2014
 
 @author: iryna
 """
-
-print ("Hello World")
+print("Hello World")

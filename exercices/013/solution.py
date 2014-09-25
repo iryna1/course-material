@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep 25 10:13:46 2014
+Created on Thu Sep 25 11:36:44 2014
 
 @author: iryna
 """
 import sys
-print(sys.argv[0])
+print(sys.argv[1])
