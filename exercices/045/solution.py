@@ -7,4 +7,4 @@ Created on Thu Sep 25 18:10:58 2014
 
 
 def sqrt(n):
-    print(n**0.5)
+    return(n**0.5)

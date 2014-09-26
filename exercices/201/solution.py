@@ -7,7 +7,7 @@ Created on Fri Sep 26 13:11:00 2014
 
 
 def is_alpha(mystring):
-    if mystring.isalpha() and len(mystring) == 1:
+    if mystring.isalpha():
         return True
     else:
         return False
